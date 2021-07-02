@@ -159,3 +159,5 @@ API
 Training
 Blog
 About
+.DS_Store
+cypress/.DS_Store
